@@ -1,3 +1,3 @@
 # Patterns
 Pattern Programs
-Hover over description to view pattern
+- Hover over description to view pattern
